@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyGoogleSignInToFirebase</string>
+
+    <string name="str_btnSignIn">Sign In</string>
+    <string name="str_btnSignOut">Sign Out</string>
+    <string name="str_txtCenter">Welcome!</string>
+    <string name="str_txtCenter_signedIn">Hi! %s</string>
+</resources>
